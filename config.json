@@ -6,7 +6,7 @@
       "protocol": "trojan",
       "settings": {
         "clients": [
-          { "password": "HASIBHOSSEN" }
+          { "password": "GHANIZADA" }
         ],
         "fallbacks": [
           { "dest": 8081 }
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/Telegram/Channel/@HASIB_FREE_INTERNET"
+          "path": "/@roleplayers20009"
         }
       },
       "sniffing": {
